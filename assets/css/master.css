@@ -1,0 +1,20 @@
+*{
+  font-family: 'Raleway', sans-serif;
+  line-height: 25px;
+
+}
+.bases{
+  color:#f5b995;
+}
+.nota{
+  font-weight: bold;
+  text-decoration: underline;
+}
+.cursive{
+  font-style: italic;
+  color:#b5b6b7;
+}
+.left, .right{
+  width: 40%;
+  display:inline-block;
+}
